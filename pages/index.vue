@@ -1,7 +1,7 @@
 <template>
   <div>
         <h1>Berita Terkini</h1>
-        <News/>
+        <News />
     </div>
 </template>
 

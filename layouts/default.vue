@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-app>
+    <v-app dark>
     <v-navigation-drawer
       v-model="drawer"
       absolute
